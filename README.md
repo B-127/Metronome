@@ -4,7 +4,7 @@ A simple metronome that produces a steady pulse to help musicians play rhythms a
 ## Built With
 
 * [ReactJS](https://reactjs.org/) - The web framework used
-* [Javascript]- Language used.
+* Javascript- Language used.
 
 ## Authors
 
