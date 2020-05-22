@@ -1,0 +1,30 @@
+
+.metronome{
+  text-align:center;
+  max-width:100%;
+  margin:0 auto;
+  margin-top: 175px;
+  padding: 100px;
+  background-color: white;
+  color: teal;
+  font-size: xx-large;
+  font-family:monospace;
+}
+
+.bpm-slider input{
+  max-width:100%;
+  margin:10px;
+}
+
+.metronome button{
+  background:teal;
+  padding:10px;
+  border:none;
+  opacity: 0.8;
+  width:130px;
+  color: #fff;
+  font-size: 18px;
+  font-family: monospace;
+}
+
+.metronome button:hover {opacity: 1}
