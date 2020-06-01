@@ -6,7 +6,7 @@ A simple metronome that produces a steady pulse to help musicians play rhythms a
 * [ReactJS](https://reactjs.org/) - The web framework used
 * Javascript- Language used.
 
-## Authors
+## Author
 
 * **Tony Jesuthasan** [B-127](https://github.com/B-127)
 
