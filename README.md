@@ -3,7 +3,7 @@ A simple metronome that produces a steady pulse to help musicians play rhythms a
 
 ## Built With
 
-* [ReactJS](https://reactjs.org/) - The web framework used
+* [ReactJS](https://reactjs.org/) - The Web Framework
 * Javascript- Language used.
 
 ## Author
